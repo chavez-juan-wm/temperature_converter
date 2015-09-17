@@ -54,7 +54,6 @@ Use conditionals (e.g., `if-else` statement, `switch` statement) so that your pr
 The starting temperature should be determined by a 'whichTemp' variable that you instantiate at the beginning of the program, and will contain a value of either "f" (Fahrenheit), "c" (Celsius) or "k" (Kelvin).
 
 ## PART 2
-
 Restructure your program from PART 1 so that when you convert a temperature, that new value is stored in an array. Your array will end up looking something like this...
 
   `var fahrenheitTemps = [ STARTING_TEMP, CONVERTED_TEMP_1, CONVERTED_TEMP_2 ];`
